@@ -1,0 +1,29 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Make profiles for your employees to consolidate their contact info",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhahnsheen/Team-Profile-Generator-v1.git"
+  },
+  "author": "jhahnsheen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhahnsheen/Team-Profile-Generator-v1/issues"
+  },
+  "homepage": "https://github.com/jhahnsheen/Team-Profile-Generator-v1#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
