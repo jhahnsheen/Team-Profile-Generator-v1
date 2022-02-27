@@ -40,6 +40,8 @@ Once all of the fields are filled out, the application will then generate an HTM
 
 The generated HTML will look like the example below.
 
+![example](./example.png)
+
 ## Usage
 
 A video showing the functionality of the application can be found [here](https://drive.google.com/drive/folders/1B6p8Sx0bYxyalqSKfYltxMotXecdCBTY?usp=sharing)
