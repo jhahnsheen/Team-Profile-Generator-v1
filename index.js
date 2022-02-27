@@ -2,7 +2,7 @@
 const Team = require('./lib/Team');
 
 // initialize a new Team
-const team = new Team();
+const newTeam = new Team();
 
 // Start building Team
-team.makeTeam();
+newTeam.makeTeam();
