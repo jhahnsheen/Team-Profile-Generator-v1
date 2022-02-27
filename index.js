@@ -5,4 +5,4 @@ const Team = require('./lib/Team');
 const team = new Team();
 
 // Start building Team
-team.build();
+team.makeTeam();
